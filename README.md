@@ -2,7 +2,7 @@
 
 This project leverages supervised learning algorithms such as `Decision Tree Classifier` and `Random Forest Classifier` to develop a predictive model capable of determining whether an individual is likely to have autism based on around 20 related parameters.
 
-Autism spectrum disorder (ASD) is a developmental condition that affects communication and behavior. Early and accurate prediction of autism can lead to timely intervention and support. The primary goal of this project is to build a reliable and efficient model that can assist in identifying autism by analyzing patterns in the data.
+Autism Spectrum Disorder (ASD) is a developmental condition that affects communication and behaviour. Early and accurate prediction of autism can lead to timely intervention and support. The primary goal of this project is to build a reliable and efficient model that can assist in identifying autism by analyzing patterns in the data.
 
 A recent [study](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800726?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=012523) by the Journal of the American Medical Association found that medical teams could accurately diagnose ASD in children 60-89% of the time. This model had a `93% Cross-Validation Accuracy` on the test data.
 
@@ -19,7 +19,7 @@ A recent [study](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/28
 * `numpy` for numerical computations
 * `pandas` for data manipulation
 * `matplotlib` and `seaborn` for data visualization
-* `sklearn` for preprocessing, modeling, and evaluation
+* `sklearn` for preprocessing, modelling, and evaluation
 * `imblearn` for handling imbalanced data with `SMOTE`
 * `pickle` for model persistence
 
