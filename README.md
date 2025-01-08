@@ -8,8 +8,9 @@ A recent [study](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/28
 
 ## Previews :eyes: 
 
-https://github.com/user-attachments/assets/6ddad1b3-1cb1-4738-828f-a0ca452b9f75
-https://github.com/user-attachments/assets/a628d2d7-4cf4-479a-be0b-c08bab31a7f2
+<img width="749" alt="correlation-heatmap" src="https://github.com/user-attachments/assets/60530b8e-9f89-400b-94bc-cde0d89af4b9" />
+
+<img width="749" alt="model-accuracy" src="https://github.com/user-attachments/assets/a8b5d87b-b963-48d7-8bf5-b365fffe3329" />
 
 ## Tools & Technologies Used :wrench:
 
@@ -34,7 +35,6 @@ The test and training data used came from Kaggle, specifically a previous [commu
 
 3. (Optional) Experiment with the `hyperparameter grid variables` (as shown below) and see if you can achieve a higher cross-validation accuracy.
 
-https://github.com/user-attachments/assets/4ee66891-c99b-432e-817d-ac93fa033e5c
+<img width="454" alt="hyperparameter grid variables" src="https://github.com/user-attachments/assets/405cbf3e-73d9-4190-9ded-c89df129b936" />
 
 4. Add additional data to the folder and use the model to make predictions or play around with the `train-test split` to test the model's accuracy.
-
