@@ -4,7 +4,7 @@ This project leverages supervised learning algorithms such as `Decision Tree Cla
 
 Autism Spectrum Disorder (ASD) is a developmental condition that affects communication and behaviour. Early and accurate prediction of autism can lead to timely intervention and support. The primary goal of this project is to build a reliable and efficient model that can assist in identifying autism by analyzing patterns in the data.
 
-A recent [study](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800726?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=012523) by the Journal of the American Medical Association found that medical teams could accurately diagnose ASD in children 60-89% of the time. This model had a `93% Cross-Validation Accuracy` on the test data.
+A recent [study](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800726?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=012523) by the Journal of the American Medical Association found that medical teams could accurately diagnose ASD in children 60-89% of the time. This best model generated had a `93% Cross-Validation Accuracy` on the test data.
 
 ## Previews :eyes: 
 
