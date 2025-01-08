@@ -29,7 +29,7 @@ The test and training data used came from Kaggle, specifically a previous [commu
 
 ## Installation and Usage :arrow_down:
 
-1. Download the file `autism_prediction_model.ipynb` and open it in your desired environment.
+1. Download the file `ASD_prediction_model.ipynb` and open it in your desired environment.
 
 2. Download the file `train.csv` and add it to the same folder as the ipynb.
 
