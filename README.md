@@ -22,11 +22,7 @@ A recent [study](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/28
 * `sklearn` for preprocessing, modelling, and evaluation
 * `imblearn` for handling imbalanced data with `SMOTE`
 * `pickle` for model persistence
-
-## Training and Test Data Sources :mag:
-
-The test and training data used came from Kaggle, specifically a previous [community prediction competition](https://www.kaggle.com/competitions/autismdiagnosis/rules#7-competition-data). The creator has the moniker [Tensor Girl](https://kaggle.com/usharengaraju) and they did not provide a license for the usage policy.
-
+  
 ## Installation and Usage :arrow_down:
 
 1. Download the file `ASD_prediction_model.ipynb` and open it in your desired environment.
@@ -38,3 +34,7 @@ The test and training data used came from Kaggle, specifically a previous [commu
 <img width="454" alt="hyperparameter grid variables" src="https://github.com/user-attachments/assets/405cbf3e-73d9-4190-9ded-c89df129b936" />
 
 4. Add additional data to the folder and use the model to make predictions or play around with the `train-test split` to test the model's accuracy.
+
+## Training and Test Data Sources :mag:
+
+The test and training data used came from Kaggle, specifically a previous [community prediction competition](https://www.kaggle.com/competitions/autismdiagnosis/rules#7-competition-data). The creator has the moniker [Tensor Girl](https://kaggle.com/usharengaraju) and they did not provide a license for the usage policy.
